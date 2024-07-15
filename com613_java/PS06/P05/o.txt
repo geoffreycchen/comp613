@@ -1,0 +1,6 @@
+2000000.0
+100.0
+3.0
+(No Valid Numbers on Line)
+0.0
+3.7

@@ -1,0 +1,5 @@
+foo
+bar
+baz
+bar
+long string with spaces
